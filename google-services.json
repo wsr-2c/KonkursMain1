@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73942480870",
+    "project_id": "wsr-2c",
+    "storage_bucket": "wsr-2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73942480870:android:032dbb5aaecd8321c5c827",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPD38nZhwXYIJ4ugZFVBJkJYhqV0HDk0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
