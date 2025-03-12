@@ -29,4 +29,13 @@
     <string name="cart">Корзина</string>
     <string name="good">товара</string>
     <string name="favorite">Избранное</string>
+    <string name="register">Регистрация</string>
+    <string name="name">Ваше имя</string>
+    <string name="allow">Даю согласие на обработку персональных данных</string>
+    <string name="reg">Зарегистрироваться</string>
+    <string name="haveacc">Есть аккаунт?</string>
+    <string name="namehint">x x x x x x x x</string>
+    <string name="forgot">Забыл Пароль</string>
+    <string name="enteraccdata">Введите Свою Учетную Запись Для Сброса</string>
+    <string name="send">Отправить</string>
 </resources>
