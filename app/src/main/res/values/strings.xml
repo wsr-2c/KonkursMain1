@@ -38,4 +38,7 @@
     <string name="enteraccdata">Enter Your Account For Reset</string>
     <string name="send">Send</string>
     <string name="checkemail">Check Your Email. Wed Sent Code For Password Recovery On Your Email</string>
+    <string name="checking">OTR Check</string>
+    <string name="please">Please, Check Your Email, to see Verification Code</string>
+    <string name="code">OTR Code</string>
 </resources>

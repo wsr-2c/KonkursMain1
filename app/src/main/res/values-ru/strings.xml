@@ -39,4 +39,7 @@
     <string name="enteraccdata">Введите Свою Учетную Запись Для Сброса</string>
     <string name="send">Отправить</string>
     <string name="checkemail">Проверьте Ваш Email. Мы Отправили Код Восстановления Пароля На Вашу Электронную Почту</string>
+    <string name="checking">ОТР Проверка</string>
+    <string name="please">Пожалуйста, Проверьте Свою Электронную Почту, Чтобы Увидеть Код Подтверждения</string>
+    <string name="code">ОТР Код</string>
 </resources>
