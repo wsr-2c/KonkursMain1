@@ -22,6 +22,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.example.myapplication.Favorites;
+import com.example.myapplication.ForgotPassword;
+import com.example.myapplication.MainA;
 import com.example.myapplication.R;
 import com.example.myapplication.ui.login.LoginViewModel;
 import com.example.myapplication.ui.login.LoginViewModelFactory;
@@ -113,7 +116,7 @@ private ActivityLoginBinding binding;
                 return false;
             }
         });
-
+        /// переход на Splash
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -121,6 +124,24 @@ private ActivityLoginBinding binding;
 //                loginViewModel.login(usernameEditText.getText().toString(),
 //                        passwordEditText.getText().toString());
                 Intent intent = new Intent(LoginActivity.this, Splash.class);
+                startActivity(intent);
+            }
+        });
+        /// переход к регистрации
+        Button button = findViewById(R.id.btncreate);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, RegisterAccount.class);
+                startActivity(intent);
+            }
+        });
+        /// переход к восстановлению пароля
+        Button but = findViewById(R.id.btnrestore);
+        but.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(LoginActivity.this, ForgotPassword.class);
                 startActivity(intent);
             }
         });

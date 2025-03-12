@@ -28,4 +28,17 @@
     <string name="cart">Cart</string>
     <string name="good">goods</string>
     <string name="favorite">Favorite</string>
+    <string name="register">Register</string>
+    <string name="name">Your name</string>
+    <string name="allow">I allow to process personal data</string>
+    <string name="reg">Register</string>
+    <string name="haveacc">Have account?</string>
+    <string name="namehint">x x x x x x x x</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="enteraccdata">Enter Your Account For Reset</string>
+    <string name="send">Send</string>
+    <string name="checkemail">Check Your Email. Wed Sent Code For Password Recovery On Your Email</string>
+    <string name="checking">OTR Check</string>
+    <string name="please">Please, Check Your Email, to see Verification Code</string>
+    <string name="code">OTR Code</string>
 </resources>
