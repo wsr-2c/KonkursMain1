@@ -15,4 +15,7 @@
     <string name="invalid_username">Неправильное имя пользователя</string>
     <string name="invalid_password">Пароль меньше 5 символов</string>
     <string name="emailtext">Email</string>
+    <string name="shop">Sneaker Shop</string>
+    <string name="incart">В корзину</string>
+    <string name="details">Подробнее</string>
 </resources>
