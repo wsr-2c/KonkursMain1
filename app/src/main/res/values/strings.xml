@@ -17,4 +17,15 @@
     <string name="shop">Sneaker Shop</string>
     <string name="incart">In cart</string>
     <string name="details">Details</string>
+    <string name="categories">Categories</string>
+    <string name="popular">Popular</string>
+    <string name="sales">Sales</string>
+    <string name="viewall">All</string>
+    <string name="main">Main</string>
+    <string name="tennis">Tennis</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="order">Order</string>
+    <string name="cart">Cart</string>
+    <string name="good">goods</string>
+    <string name="favorite">Favorite</string>
 </resources>

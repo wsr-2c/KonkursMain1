@@ -86,7 +86,7 @@
         android:id="@+id/textView14"
         android:layout_width="334dp"
         android:layout_height="73dp"
-        android:text="Вставка Max Air 270 Обеспечивает Непревзойденный Комфорт В Течение Всего Дня. Изящный Дизайн обеспечивает моду на долгое время."
+        android:text="Вставка Max Air 270 Обеспечивает Непревзойденный Комфорт В Течение Всего Дня. Изящный Дизайн (текст заглушка текст заглушка текст заглушка)."
         android:textColor="#6A6A6A"
         android:textSize="14sp"
         app:layout_constraintBottom_toBottomOf="parent"

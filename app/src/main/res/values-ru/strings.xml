@@ -18,4 +18,15 @@
     <string name="shop">Sneaker Shop</string>
     <string name="incart">В корзину</string>
     <string name="details">Подробнее</string>
+    <string name="categories">Категории</string>
+    <string name="popular">Популярное</string>
+    <string name="sales">Акции</string>
+    <string name="viewall">Все</string>
+    <string name="main">Главная</string>
+    <string name="tennis">Теннис</string>
+    <string name="outdoor">Улица</string>
+    <string name="order">Оформить заказ</string>
+    <string name="cart">Корзина</string>
+    <string name="good">товара</string>
+    <string name="favorite">Избранное</string>
 </resources>
