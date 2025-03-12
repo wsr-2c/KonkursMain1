@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -26,6 +27,7 @@ public class ForgotPassword extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+        /// переход на экран входа
         Button button = findViewById(R.id.btnback5);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -34,11 +36,12 @@ public class ForgotPassword extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        /// переход к верификации
         Button b = findViewById(R.id.sende);
         b.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(ForgotPassword.this, LoginActivity.class);
+                Intent intent = new Intent(ForgotPassword.this, Verification.class);
                 startActivity(intent);
             }
         });

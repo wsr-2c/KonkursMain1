@@ -116,7 +116,7 @@ private ActivityLoginBinding binding;
                 return false;
             }
         });
-
+        /// переход на Splash
         loginButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -127,6 +127,7 @@ private ActivityLoginBinding binding;
                 startActivity(intent);
             }
         });
+        /// переход к регистрации
         Button button = findViewById(R.id.btncreate);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -135,6 +136,7 @@ private ActivityLoginBinding binding;
                 startActivity(intent);
             }
         });
+        /// переход к восстановлению пароля
         Button but = findViewById(R.id.btnrestore);
         but.setOnClickListener(new View.OnClickListener() {
             @Override

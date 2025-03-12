@@ -37,4 +37,5 @@
     <string name="forgot">Forgot Password</string>
     <string name="enteraccdata">Enter Your Account For Reset</string>
     <string name="send">Send</string>
+    <string name="checkemail">Check Your Email. Wed Sent Code For Password Recovery On Your Email</string>
 </resources>
