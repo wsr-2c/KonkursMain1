@@ -41,4 +41,26 @@
     <string name="checking">OTR Check</string>
     <string name="please">Please, Check Your Email, to see Verification Code</string>
     <string name="code">OTR Code</string>
+    <string name="username">Emmanuel Qwerty</string>
+    <string name="orders">Orders</string>
+    <string name="note">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="profile">Profile</string>
+    <string name="yourname">Name</string>
+    <string name="lastname">Last name</string>
+    <string name="address">Address</string>
+    <string name="latest">Latest</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="lastn">Qwerty</string>
+    <string name="nam">Emmanuel</string>
+    <string name="adres">Nigeria</string>
+    <string name="phone">Phone</string>
+    <string name="payway">Pay way</string>
+    <string name="adresnumbernum">Nigeria</string>
+    <string name="adresmap">1082 Airport, Nigeria</string>
+    <string name="card">Dbl Card</string>
+    <string name="cardnumber">**** **** 0696 4629</string>
+    <string name="contactinfo">Contact info</string>
+    <string name="phonenumber">+234-811-732-5298</string>
 </resources>

@@ -56,5 +56,14 @@ public class MainA extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        /// боковое меню
+        Button buttons = findViewById(R.id.btnside);
+        buttons.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainA.this, SideMenu.class);
+                startActivity(intent);
+            }
+        });
     }
 }

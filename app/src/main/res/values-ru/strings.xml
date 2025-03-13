@@ -42,4 +42,26 @@
     <string name="checking">ОТР Проверка</string>
     <string name="please">Пожалуйста, Проверьте Свою Электронную Почту, Чтобы Увидеть Код Подтверждения</string>
     <string name="code">ОТР Код</string>
+    <string name="username">Эмануэль Кверти</string>
+    <string name="orders">Заказы</string>
+    <string name="note">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выйти</string>
+    <string name="profile">Профиль</string>
+    <string name="yourname">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="address">Адрес</string>
+    <string name="latest">Недавний</string>
+    <string name="yesterday">Вчера</string>
+    <string name="lastn">Кверти</string>
+    <string name="nam">Эмануэль</string>
+    <string name="adres">Нигерия</string>
+    <string name="phone">Телефон</string>
+    <string name="payway">Способ оплаты</string>
+    <string name="adresnumbernum">Нигерия</string>
+    <string name="adresmap">1082 Аэропорт, Нигерии</string>
+    <string name="card">Dbl Card</string>
+    <string name="cardnumber">**** **** 0696 4629</string>
+    <string name="contactinfo">Контактная информация</string>
+    <string name="phonenumber">+234-811-732-5298</string>
 </resources>
