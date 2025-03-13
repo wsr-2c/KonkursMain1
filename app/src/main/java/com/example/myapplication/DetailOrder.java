@@ -13,6 +13,7 @@ import androidx.core.view.WindowInsetsCompat;
 
 public class DetailOrder extends AppCompatActivity {
 
+    ///13.03.25, Мясников Даниил основной класс
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
