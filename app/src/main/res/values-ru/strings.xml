@@ -56,4 +56,12 @@
     <string name="lastn">Кверти</string>
     <string name="nam">Эмануэль</string>
     <string name="adres">Нигерия</string>
+    <string name="phone">Телефон</string>
+    <string name="payway">Способ оплаты</string>
+    <string name="adresnumbernum">Нигерия</string>
+    <string name="adresmap">1082 Аэропорт, Нигерии</string>
+    <string name="card">Dbl Card</string>
+    <string name="cardnumber">**** **** 0696 4629</string>
+    <string name="contactinfo">Контактная информация</string>
+    <string name="phonenumber">+234-811-732-5298</string>
 </resources>

@@ -55,4 +55,12 @@
     <string name="lastn">Qwerty</string>
     <string name="nam">Emmanuel</string>
     <string name="adres">Nigeria</string>
+    <string name="phone">Phone</string>
+    <string name="payway">Pay way</string>
+    <string name="adresnumbernum">Nigeria</string>
+    <string name="adresmap">1082 Airport, Nigeria</string>
+    <string name="card">Dbl Card</string>
+    <string name="cardnumber">**** **** 0696 4629</string>
+    <string name="contactinfo">Contact info</string>
+    <string name="phonenumber">+234-811-732-5298</string>
 </resources>

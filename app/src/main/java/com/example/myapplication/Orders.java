@@ -32,5 +32,14 @@ public class Orders extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        /// детали
+        Button bu = findViewById(R.id.btndetal);
+        bu.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(Orders.this, DetailOrder.class);
+                startActivity(intent);
+            }
+        });
     }
 }
