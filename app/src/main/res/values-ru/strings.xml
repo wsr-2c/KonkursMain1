@@ -53,4 +53,7 @@
     <string name="address">Адрес</string>
     <string name="latest">Недавний</string>
     <string name="yesterday">Вчера</string>
+    <string name="lastn">Кверти</string>
+    <string name="nam">Эмануэль</string>
+    <string name="adres">Нигерия</string>
 </resources>

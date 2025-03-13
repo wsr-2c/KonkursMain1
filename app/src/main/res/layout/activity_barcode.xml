@@ -24,13 +24,15 @@
 
     <ImageView
         android:id="@+id/imageView46"
-        android:layout_width="800dp"
+        android:layout_width="750dp"
         android:layout_height="600dp"
         android:rotation="90"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.478"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.267"
         app:srcCompat="@drawable/barcode" />
 
     <ImageView

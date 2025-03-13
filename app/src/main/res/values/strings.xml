@@ -52,4 +52,7 @@
     <string name="address">Address</string>
     <string name="latest">Latest</string>
     <string name="yesterday">Yesterday</string>
+    <string name="lastn">Qwerty</string>
+    <string name="nam">Emmanuel</string>
+    <string name="adres">Nigeria</string>
 </resources>

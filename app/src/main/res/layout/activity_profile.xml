@@ -8,6 +8,30 @@
     android:background="#FFFFFF"
     tools:context=".Profile">
 
+    <Button
+        android:id="@+id/btnside3"
+        android:layout_width="49dp"
+        android:layout_height="31dp"
+        android:backgroundTint="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.008"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.022" />
+
+    <Button
+        android:id="@+id/btnbar"
+        android:layout_width="355dp"
+        android:layout_height="77dp"
+        android:backgroundTint="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.392"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.397" />
+
     <ImageView
         android:id="@+id/imageView44"
         android:layout_width="wrap_content"
@@ -220,8 +244,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#F7F7F9"
-            android:hint="@string/namehint"
             android:inputType="text"
+            android:text="@string/nam"
             android:selectAllOnFocus="true"
             android:textColorHint="#6A6A6A"
             android:textColorLink="#6A6A6A"
@@ -266,8 +290,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#F7F7F9"
-            android:hint="@string/namehint"
             android:inputType="text"
+            android:text="@string/adres"
             android:selectAllOnFocus="true"
             android:textColorHint="#6A6A6A"
             android:textColorLink="#6A6A6A"
@@ -331,8 +355,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:background="#F7F7F9"
-            android:hint="@string/namehint"
             android:inputType="text"
+            android:text="@string/lastn"
             android:selectAllOnFocus="true"
             android:textColorHint="#6A6A6A"
             android:textColorLink="#6A6A6A"

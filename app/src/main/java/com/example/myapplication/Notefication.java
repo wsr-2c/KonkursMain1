@@ -11,33 +11,24 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-public class Profile extends AppCompatActivity {
+public class Notefication extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
-        setContentView(R.layout.activity_profile);
+        setContentView(R.layout.activity_notefication);
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
-        /// переход в боковое меню
-        Button button = findViewById(R.id.btnside3);
+        /// боковое меню
+        Button button = findViewById(R.id.btnside2);
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(Profile.this, SideMenu.class);
-                startActivity(intent);
-            }
-        });
-        /// баркод
-        Button b = findViewById(R.id.btnbar);
-        b.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(Profile.this, Barcode.class);
+                Intent intent = new Intent(Notefication.this, SideMenu.class);
                 startActivity(intent);
             }
         });

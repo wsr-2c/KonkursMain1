@@ -66,16 +66,17 @@ public class SideMenu extends AppCompatActivity {
         buttonn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent = new Intent(SideMenu.this, .class);
+                Intent intent = new Intent(SideMenu.this, Notefication.class);
                 startActivity(intent);
             }
         });
-        /// выход из приложения
+        /// выход на главный
         Button btne = findViewById(R.id.btnexit);
         btne.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                finish();
+                Intent intent = new Intent(SideMenu.this, MainA.class);
+                startActivity(intent);
             }
         });
     }
