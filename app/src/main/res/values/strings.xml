@@ -41,4 +41,15 @@
     <string name="checking">OTR Check</string>
     <string name="please">Please, Check Your Email, to see Verification Code</string>
     <string name="code">OTR Code</string>
+    <string name="username">Emmanuel Qwerty</string>
+    <string name="orders">Orders</string>
+    <string name="note">Notifications</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="profile">Profile</string>
+    <string name="yourname">Name</string>
+    <string name="lastname">Last name</string>
+    <string name="address">Address</string>
+    <string name="latest">Latest</string>
+    <string name="yesterday">Yesterday</string>
 </resources>

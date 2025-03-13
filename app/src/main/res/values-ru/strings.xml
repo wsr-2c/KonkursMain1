@@ -42,4 +42,15 @@
     <string name="checking">ОТР Проверка</string>
     <string name="please">Пожалуйста, Проверьте Свою Электронную Почту, Чтобы Увидеть Код Подтверждения</string>
     <string name="code">ОТР Код</string>
+    <string name="username">Эмануэль Кверти</string>
+    <string name="orders">Заказы</string>
+    <string name="note">Уведомления</string>
+    <string name="settings">Настройки</string>
+    <string name="exit">Выйти</string>
+    <string name="profile">Профиль</string>
+    <string name="yourname">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="address">Адрес</string>
+    <string name="latest">Недавний</string>
+    <string name="yesterday">Вчера</string>
 </resources>
